@@ -99,3 +99,8 @@
 - Preconditions: Dashboard loaded
 - Steps: Inspect SAR values across all sections
 - Expected: Consistent thousands separators and decimal formatting throughout
+
+## TC-21 xxxxxx
+-
+-
+-
