@@ -1,5 +1,7 @@
 # Test Cases — SHAR-1643: Admin Finance Cost & Revenue Insights
 
+
+
 ## TC-01: Default view loads correctly
 - Preconditions: Logged in as Finance admin, dashboard page loaded
 - Steps: Navigate to Finance dashboard
@@ -99,3 +101,8 @@
 - Preconditions: Dashboard loaded
 - Steps: Inspect SAR values across all sections
 - Expected: Consistent thousands separators and decimal formatting throughout
+
+## TC-21 xxxxxx
+-
+-
+-
