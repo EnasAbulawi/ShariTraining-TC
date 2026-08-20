@@ -1,5 +1,5 @@
 ---
-name: jira-to-testcase-pr
+name: qaworkflow
 description: Generate a test-case markdown file for a Jira ticket (SHAR-NNNN) and open a PR for it in this repo. Use when the user gives a Jira ticket key and asks for test cases, or asks to turn a ticket into test cases and submit them via the repo's branch/PR workflow.
 ---
 
