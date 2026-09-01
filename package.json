@@ -1,0 +1,22 @@
+{
+  "name": "sharitraining-tc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QA test-case documentation and the Playwright suite that automates it",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report",
+    "auth": "playwright codegen --save-storage=.auth/state.json https://develop.shari.sa/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnasAbulawi/ShariTraining-TC.git"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}
