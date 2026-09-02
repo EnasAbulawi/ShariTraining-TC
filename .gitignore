@@ -1,2 +1,12 @@
 .playwright-mcp/
 .DS_Store
+
+# Playwright
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+
+# Saved Cloudflare Access session — a live credential, never commit
+.auth/
+.env
